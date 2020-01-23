@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "VR",
-        "Test"
-      ]
-    },
-    {
-      "name": "n/a",
+      "name": "VR",
       "keywords": [
       ]
     },
     {
-      "name": "n/a",
+      "name": "Game Dev",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "",
       "keywords": [
       ]
     }
