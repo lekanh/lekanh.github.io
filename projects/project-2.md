@@ -8,7 +8,7 @@ permalink: projects/tabblephis
 date: 2017-12-15
 labels:
   - C
-summary: A remake of the game Battleship I did with my group members in EE160.
+summary: EE160 Final project. A remake of the game Battleship I did with my group members.
 ---
 
 
