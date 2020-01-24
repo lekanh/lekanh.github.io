@@ -20,6 +20,6 @@ My interests in software engineering stemmed from the video game Star Trek: Brid
 
 Throughout my college career, I hope to develop skills which enable me to become an effective software engineer, which includes, but not limited to, being able to create algorithms that will decrease the amount of time I have to spend debugging my code, gaining more knowledge about different programming languages, the advantages and disadvantages of languages, being able to determine which language is the best solution to a problem needed to be solved. I believe these skills will greatly benefit me, as a software engineer.
 
-<img class="ui medium left floated image" src="../images/socialet.jpg">
-
+<img class="ui medium left floated image" src="../images/socianet.jpg">
+## The Future
 As for experiences, I hope I will be able to meet with other software engineers, who I can not only learn from but also grow and develop with. Through teamwork and group projects, I hope I can be of benefit to others as they would to me. I also hope to be able to acquire more knowledge on my biggest interest, VR. As much as I do enjoy the courses I have taken so far, I hope to soon be able to take courses which are more related to VR.
