@@ -11,7 +11,7 @@ labels:
   - EZImage
 summary: ICS 111 Final project. My partner and I created an Animal Crossing minigame, catching fruits and while avoiding a bee.
 ---
-
+<img src="{{ site.baseurl }}/images/ac2.png" alt="ac2" width="400" height="400">
 <img class="ui image" src="{{ site.baseurl }}/images/ac2.png">
 
 This project was implemented with Java. I found Java to be a bit easier of a language to learn. However, I do believe because my prior knowledge of C, I was able to catch on to Java much easier and faster. However, the differences between C and Java, with pointers and classes, was a small jump.
