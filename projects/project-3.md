@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/bank1.png
-title: Cotton
+title: Bank
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-12
