@@ -9,14 +9,12 @@ date: 2018-11-27
 labels:
   - Java
   - EZImage
-summary: My partner and I created an Animal Crossing minigame, catching fruits and avoiding a bee.
+summary: ICS 111 Final project. My partner and I created an Animal Crossing minigame, catching fruits and while avoiding a bee.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/ac2.png">
-  <img class="ui image" src="../images/ac1.jpg">
-</div>
+<img class="ui image" src="{{ site.baseurl }}/images/ac2.png">
 
-Short excerpt.
+This project was implemented with Java. 
 
-Short excerpt.
+
+<img class="ui image" src="{{ site.baseurl }}/images/ac1.png">
