@@ -18,6 +18,5 @@ My interests in software engineering stemmed from the video game Star Trek: Brid
 
 ## What did I gain?
 
-
 Skills I would like to develop are 
 Experiences I hope to develop in the future
