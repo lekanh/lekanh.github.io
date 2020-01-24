@@ -72,12 +72,12 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-        ICS 141 Discrete Mathematics I
-        ICS 241 Discrete Mathematics II
-        ICS 111 Introduction to Computer Science I - Java
-        ICS 211 Introduction to Computer Science II - Java
-        ICS 212 Program Structure - C & C++
+      "courses": [ 
+        "ICS 141 Discrete Mathematics I"
+        "ICS 241 Discrete Mathematics II"
+        "ICS 111 Introduction to Computer Science I - Java"
+        "ICS 211 Introduction to Computer Science II - Java"
+        "ICS 212 Program Structure - C & C++"
       ]
     }
   ],
@@ -115,7 +115,7 @@
   ],
   "references": [
     {
-      "name": "Avai",
+      "name": "Available upon request",
       "reference": ""
     }
   ]
