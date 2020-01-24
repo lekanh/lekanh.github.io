@@ -6,7 +6,7 @@
     "email": "leanh@hawaii.edu",
     "phone": "808-384-8125",
     "website": "https://lekanh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Game Dev",
+      "name": "AR",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Game Dev",
       "keywords": [
       ]
     }
@@ -78,49 +78,26 @@
   ],
   "work": [
     {
-      "company": "N/A",
-      "position": "N/A",
+      "company": "Moiliili Community Center",
+      "position": "Reading Tutor",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "NOVEMBER 2018",
+      "endDate": "MAY 2019",
+      "summary": "Aid elementary students with homework assignments.",
       "highlights": [
         
       ]
     },
     {
-      "company": "N/A",
-      "position": "N/A",
+      "company": "Macy's",
+      "position": "Seasonal Recovery",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "NOVEMBER 2018",
+      "endDate": "JANUARY  2019",
+      "summary": "Recovered and sorted merchandise.",
       "highlights": [
         
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "N/A",
-      "website": "N/A",
-      "position": "N/A",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ]
     }
   ],
   "awards": [
@@ -129,12 +106,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
