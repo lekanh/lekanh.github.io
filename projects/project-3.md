@@ -8,6 +8,8 @@ permalink: projects/bankdatabase
 date: 2019-12-12
 labels:
   - C
+  - Unix
+  - VIM
 summary: ICS 212 Project. A bank database utilizing a linked list structure.
 ---
 
@@ -17,3 +19,4 @@ This is a program which allows the user to add, view, modify, and delete bank re
 
 <img class="ui image" src="{{ site.baseurl }}/images/bank2.png">
 
+The C language was rigorous, as pointers is still a hard concept to completely understand and utilize. As I gained more knowledge in C, how to navigate Unix, and using the VIM text editor, I feel more confident in programming C.
