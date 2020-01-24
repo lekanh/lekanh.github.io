@@ -9,7 +9,7 @@ labels:
   - Learning
   - Javascript
 ---
-## Javascript
+
 <img class="ui medium right floated rounded image" src="../images/javascript.png">
 
 I am unfamiliar with Javascript so I was anxious going in. Since I do not know all the advantages and disadvantages, features and bugs of Javascript yet, I cannot really compare it with other programming languages, and determine whether it is a good or bad programming language. However, I had a hard time comprehending certain concepts in regards to ES6, for example:
@@ -41,6 +41,9 @@ const shape = (shapeData) => {
 ```
 const shapeUpdate = ({ name, sides, length, width }) => { }
 ```
+## Practice WODs
+Practice WODs are very useful, it not only provides exercises which allows more Javascript experiences, we are also told what is wrong with our program in real time and this enables us to learn from our mistakes right away, know why is it wrong, and how it can be fixed. The fact that the practice WODs are not graded allows an easier time for us students, being able to take our time and are not rushed to finish but still know we should utilize our time as much as possible. However, I feel that as the course progresses the WODs difficulity will also progress. The advantage of practice WODs is that it will allow students to have a gauge on difficulties of application of certain concepts better. But it would not be as effective as not all students are able to think on the spot and without any preparations to immediately tackle a difficult program.
+
 
 ## Flipped Classroom
 <img class="ui image" src="{{ site.baseurl }}/images/flipped.jpg">
