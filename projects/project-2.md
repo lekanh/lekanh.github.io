@@ -11,7 +11,7 @@ labels:
 summary: A remake of the game Battleship I did with my group members in EE160.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/tb2.png">
+<img class="ui image" src="{{ site.baseurl }}/images/tp1.png">
 
 Tabblephis is a remake of the game Battleship I worked on with my group members for our final project in EE160. Tabblephis is implemented on Unix and in C. We were provided the displays and controls. The project required us to create an interface for the user to interact with, the scoring, and the implementations and mechanics of the boats.
 
