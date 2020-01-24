@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ac1.png
+image: images/ac3.png
 title: Fruit Catching
 permalink: projects/animalcatching
 # All dates must be YYYY-MM-DD format!
@@ -13,8 +13,8 @@ summary: My partner and I created an Animal Crossing minigame, catching fruits a
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ac1.png">
-  <img class="ui image" src="../images/ac3.jpg">
+  <img class="ui image" src="../images/ac2.png">
+  <img class="ui image" src="../images/ac1.jpg">
 </div>
 
 Short excerpt.
