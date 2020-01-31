@@ -27,4 +27,4 @@ So? Is there really no such thing as dumb questions? I have been wondering about
 
 
 > "Don't be shy."
-<img class="ui tiny left circular floated image" src="../images/askquestions.jpg">
+<img class="ui tiny left circular floated image" src="../images/anyquestions.jpg">
