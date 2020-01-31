@@ -15,13 +15,13 @@ labels:
 I am unfamiliar with Javascript so I was anxious going in. Since I do not know all the advantages and disadvantages, features and bugs of Javascript yet, I cannot really compare it with other programming languages, and determine whether it is a good or bad programming language. However, I had a hard time comprehending certain concepts in regards to ES6, for example:
 
 using arrows functions:
-```
+``` javascript
 const divide = (dividend, divisor) => dividend * divisor;
 ```
 
 a variable can be function:
 
-```
+``` javascript
 const num = function() {
   const numV = "value";
   return numV;
@@ -33,12 +33,12 @@ const num = () => "value";
 ```
 
 or passing an object as a function's parameters by destructuring assignments. That took me off guard as it was very different from C and Java. 
-```
+``` javascript
 const shape = (shapeData) => {
   const { name, sides, length, width } = shapeData;
 ```
 
-```
+``` javascript
 const shapeUpdate = ({ name, sides, length, width }) => { }
 ```
 ## Practice WODs
