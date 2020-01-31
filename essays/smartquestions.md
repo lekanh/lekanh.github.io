@@ -30,7 +30,7 @@ Perhaps despite the tone and diction of Eric Raymond's essay, he does means well
 
 ## Start Questioning
 
-I think it is fine to ask dumb questions. It is hard to know what you are confused or unsure about. By asking broad questions can lead to discussions which can direct you towards what you know and don't know. This way, it will not only ensure that you can cover and go over what you do understand but also uncover what you don't and thus allows more learning oppurtunites. But it is also beneficial to formulate and be concise when asking inquiries on an open source community.
+I think it is fine to ask dumb questions. It is hard to know what you are confused or unsure about. By asking broad questions can lead to discussions which can direct you towards what you know and don't know. This way, it will not only ensure that you can cover and go over what you do understand but also uncover what you don't and thus allows more learning oppurtunites. But it is also beneficial to formulate and be concise when asking inquiries on an open source community. As my algorithms professor like to say:
 
 > "Don't be shy." So?
 
