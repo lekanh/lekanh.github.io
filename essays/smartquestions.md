@@ -24,7 +24,7 @@ According to Eric Raymond essay on "How To Ask Questions The Smart Way", it appe
 
 A smart question by Eric Raymond standards, would be [this inquiry]() 
 
-Perhaps despite the tone and diction of Eric Raymond's essay, he does means well. Mayhaps, his point was that before you ask a question, be thorough and concise on what it is you are asking for, as asking a broad question may not bring you the answer you expected or needed. Hopefully he had the point of view of inquirers in mind when writing his essays, ie: perhaps they do not have as an extensive knowledge to be able to ask concise smart questions.
+Perhaps despite the tone and diction of Eric Raymond's essay, he does means well. Mayhaps, his point was that before you ask a question, be thorough and concise on what it is you are asking for, as asking a broad question may not bring you the answer you expected or needed. Hopefully he had the point of view of inquirers in mind when he wrote his essay, ie: perhaps they are asking dumb questions because they do not have as an extensive knowledge to be able to ask concise smart questions.
 
 <img class="ui image" src="{{ site.baseurl }}/images/think.jpg">
 
