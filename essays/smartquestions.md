@@ -18,14 +18,17 @@ Quite often, there are instructors who welcome questions, particularly for cours
 Quote break.
 So? Is there really no such thing as dumb questions? I have been wondering about this question too throughout my educational career. I am not one to ask questions in a classroom I am uncomfortable and unfamiliar in. This puts a restriction on my potential to get answers when a question pops into my head when I stumble upon information I can process quickly enough. Following the assumption of the existence of dumb questions, there has to be smart questions too then. 
 
-<img class="ui tiny left circular floated image" src="../images/huh.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/huh.jpg">
+
 
 ## Smart Questions
 
-<img class="ui tiny left circular floated image" src="../images/think.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/think.jpg">
+
 
 ## Start Questioning
 
 
 > "Don't be shy."
-<img class="ui tiny left circular floated image" src="../images/anyquestions.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/anyquestions.jpg">
+
