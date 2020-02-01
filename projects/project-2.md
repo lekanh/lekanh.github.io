@@ -8,14 +8,13 @@ permalink: projects/psydodgeball
 date: 2018-09-17
 labels:
   - Java
+  - EZGraphics
 summary: First ICS 111 project. A dodgeball game with Psyduck and Pokeballs.
 ---
 <img class="ui medium right floated rounded image" src="../images/psy2.png">
 
-Tabblephis is a remake of the game Battleship I worked on with my group members for our final project in EE160. Tabblephis is implemented on Unix and in C. We were provided the displays and controls. The project required us to create an interface for the user to interact with, the scoring, and the implementations and mechanics of the boats.
-
-
-This project was my first final project with coding. Working on this project was very difficult for my group members and I, as we were all beginners in both programming and the C language. We ran into difficulties and hurdles, some of which we were able to solve. This project allowed me to grow as a team member, to recognize how I should interact and what responsibilities I should expect of not only my team members but also myself.
+Psydodgeball was my first Java project. I worked on it by myself so I was the only one responsible for the codes. I used object-oriented programming and created different classes to specify each Pokeball's speed and direction. The player uses WASD to move around the game screen. The challenges I had were figuring out the calculations for the speed of the Pokeballs.
 
 <img class="ui medium right floated rounded image" src="../images/psy3.png">
 
+[Codes](https://github.com/lekanh/Psydodgeball)
