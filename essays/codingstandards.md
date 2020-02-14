@@ -9,4 +9,6 @@ labels:
   - Software engineering technique
 ---
 
-Test test
+<img class="ui image" src="{{ site.baseurl }}/images/csbanner.png">
+
+<img class="ui image" src="{{ site.baseurl }}/images/csban.png">
