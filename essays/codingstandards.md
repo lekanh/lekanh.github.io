@@ -10,5 +10,5 @@ labels:
 ---
 ## If I can read it, it's fine!
 <img class="ui image" src="{{ site.baseurl }}/images/csbanner.png">
-
+## Coding standards may be useful
 <img class="ui image" src="{{ site.baseurl }}/images/csban.png">
