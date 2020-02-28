@@ -13,6 +13,10 @@ labels:
 
 ## Another Language to Learn?
 
+Back in the early 2010s, blogs were popping, and with that craze themed blogs were even more so. In my eyes, people who knew or learnt how to code HTML had all the power. They were able to create such beautiful and aesthetically pleasing themes, I would change my blog every other week, my bookmarks folder would continuously grow as I stumble upon different themes. As curious and eager to learn as I was, I looked into it as I wanted to make a few changes to the theme, and boy was it a surprise to me how difficult and complex it was. There were so many components and elements to be aware of. I was shocked, looking at the source codes of the themes that I had loved I was completely overwhelmed. I mean, where do I even start to look at if I want to change the behavior of how a post will be if a mouse hovers over it? What is the head or body? Of what? I was so confused I never went back to it again. Until now, learning HTML and CSS as I learn how to build a website from the foundations was pretty eye opening. Albeit the website looks like it was the barebones of the web.. I was still proud of my work! But even these barebones are time consuming. So when Semantic UI was introduced, when I found out I could be using already build libraries instead of making my own. Wow, this was like transitioning from walking to taking a bus.
+
 ## Usefulness of UI Frameworks
+
+
 
 ## Optimization of Resources
