@@ -11,6 +11,6 @@ labels:
 
 ## Coding Ethics
 
-## 
+## A Case Study in Privacy
 
-##
+## Ethicality and Morality
