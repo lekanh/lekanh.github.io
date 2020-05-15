@@ -1,18 +1,22 @@
 ---
 layout: project
 type: project
-image: images/psy0.png
-title: Psydodgeball
-permalink: projects/psydodgeball
+image: images/cluhb.png
+title: CL-UH-B
+permalink: projects/cluhb
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-17
+date: 2020-05-13
 labels:
-  - Java
-  - EZGraphics
-summary: First ICS 111 project. A dodgeball game with Psyduck and Pokeballs.
+  - Meteor
+  - MongoDB
+  - React
+  - Semantic UI
+summary: Group project creating a website for UH Manoa students to browse clubs. 
 ---
-<img class="ui medium right floated rounded image" src="../images/psy2.png">
+This is an application for students at University of Hawai'i to browse through clubs, developed by [Kevin Nguyen](https://kvndngyn.github.io/), [Tiffany Williams](https://tiffanywilliams.github.io/), [Julian Kim](https://julianki-cs.github.io/) and I. Together with my group we created the website using React and Semantic UI for the users to have an easier time navigating the long list as UH Manoa has almost 300 approved organizations. The application features are implemented with Meteor and MongoDB.
 
-Psydodgeball was my first Java project. I worked on it by myself so I was the only one responsible for the codes. I used object-oriented programming and created different classes to specify each Pokeball's speed and direction. The player uses WASD to move around the game screen. The challenges I had were figuring out the calculations for the speed of the Pokeballs.
+<img class="ui medium right floated rounded image" src="../images/lucky.png">
 
-[Codes](https://github.com/lekanh/Psydodgeball)
+One of our features, I'm Feeling Lucky, I helped implement went through a few changes as at the beginning we had considered making it as a page on it's own, however through our own judgement and in addition to feedback, we found that the feature would be better placed in the user's profile. Through working in this project, I realized the importance of user's feedbacks even while developing an application.
+
+For more information on the application: [CL-UH-B](https://cl-uh-b.github.io/)
