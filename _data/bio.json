@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://lekanh.github.io/images/anh.jpeg",
     "email": "leanh@hawaii.edu",
-    "phone": "808-384-8125",
+    "phone": "",
     "website": "https://lekanh.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
@@ -52,7 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "Javascript"
       ]
     },
     {
@@ -60,24 +60,24 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2017-09-01",
-      "endDate": "Present",
+      "startDate": "Fall 2021",
+      "endDate": "",
       "gpa": "",
       "courses": [ 
         "ICS 141 Discrete Mathematics I",
         "ICS 241 Discrete Mathematics II",
         "ICS 111 Introduction to Computer Science I - Java",
         "ICS 211 Introduction to Computer Science II - Java",
-        "ICS 212 Program Structure - C & C++",
+        "ICS 212 Program Structure - C & C++"
       ]
     }
   ],
